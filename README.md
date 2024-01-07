@@ -22,7 +22,7 @@
 <p align="center"><a href="https://t.me/ITZ_CRAZY_BOY_ADI"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 ## ʀᴇᴘᴏ ᴄʀᴇᴅɪᴛ 
-- [ᴠᴇɴᴏᴍ](https://github.com/aditya0918)
+- [Aditya](https://github.com/aditya0918)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

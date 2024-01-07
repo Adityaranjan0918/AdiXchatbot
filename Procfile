@@ -1,1 +1,1 @@
-Vick: python3 main.py
+Queen: python3 main.py

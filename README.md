@@ -19,7 +19,7 @@
 
 ### sᴜᴘᴘᴏʀᴛ
 <p align="center"><a href="https://t.me/The_Chating_kingdom"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://t.me/ITZ_CRAZY_BOY_ADI"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/privatebotsbyaditya"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 ## ʀᴇᴘᴏ ᴄʀᴇᴅɪᴛ 
 - [Aditya](https://github.com/aditya0918)

@@ -1,5 +1,5 @@
 #Don't remove This Line From Here. @aditya0918 | @aditya0918
-#Github :- @aditya0918
+#Github :- @adityaranjan0918
 import requests
 import random
 import os
@@ -697,5 +697,5 @@ async def queenprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @the_chating_kingdom ʙɪᴛᴄʜ!!")      
+print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @the_IND_CODERS ʙɪᴛᴄʜ!!")      
 bot.run()
